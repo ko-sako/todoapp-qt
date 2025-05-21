@@ -1,5 +1,1 @@
-build-*/
-CMakeLists.txt.user
-*.o
-*.exe
-Makefile*
+build/
